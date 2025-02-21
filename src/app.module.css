@@ -1,0 +1,40 @@
+body {
+  background-color: lightyellow;
+}
+
+h1 h2 {
+  margin: 0;
+  padding: 0;
+}
+
+.wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 40px;
+  justify-content: space-around;
+}
+
+.container {
+  margin: 60px 100px;
+}
+
+.header {
+  text-align: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 30px;
+  color: violet;
+  margin-bottom: 50px;
+}
+.header2 {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 20px;
+  margin-bottom: 50px;
+  border: 2px solid violet;
+  border-radius: 5px;
+  text-align: center;
+  padding: 20px;
+  background-color: lavenderblush;
+  color: darkblue;
+  letter-spacing: 1.2px;
+  box-shadow: 5px 5px 5px pink;
+}

@@ -1,0 +1,24 @@
+
+.cart {
+  width: 260px;
+  border: 1px solid goldenrod;
+  padding: 20px;
+  border-radius: 10px;
+  background-color: antiquewhite;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  cursor: pointer;
+  transition: 0.7s;
+  margin-bottom: 30px;
+  box-shadow: 10px 10px 10px rgb(222, 186, 186);
+  line-height: 1.2;
+}
+
+.cart:hover {
+  transform: scale(1.2);
+  background-color: navajowhite;
+}
+
+.description {
+  font-weight: 200;
+  color: gray;
+}
